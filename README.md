@@ -12,18 +12,18 @@ For  software engineering course 2019,group 2 present
 ## Frontend Build Setup
 ``` bash
 # 进入frontend文件夹
-cd frontend
+  cd frontend
 
 # install dependencies
-npm install/cnpm install
+  npm install/cnpm install
 
 # serve with hot reload at localhost:8080
-npm run serve
+  npm run serve
 ```
 ## Backend Build Setup
 ``` bash
 # install dependencies
-pip install xxx
+  pip install xxx
 
 # Be sure load at localhost:5000
 ```
